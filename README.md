@@ -2,4 +2,4 @@
 
 This repository is for storing my assignments made for the school course *Digital Image Processing*.
 
-Environment: Linux+Jupyter lab
+Environment: Linux+python 3.10.4+conda+Jupyter lab+
