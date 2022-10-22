@@ -24,4 +24,3 @@
 尝试使用线性滤波器制作浮雕效果，用非线性滤波器制作油画效果。
 
 ![output_8_1](https://user-images.githubusercontent.com/106864918/197244471-7149b1e2-decd-41cf-a9d5-bd6bc8941eaf.png)
-![output_13_1](https://user-images.githubusercontent.com/106864918/197244536-34a00d16-d3ef-4879-91d7-9a0a46ec2258.png)
