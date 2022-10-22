@@ -3,6 +3,12 @@
 
 环境: Linux+python 3.10.4+conda+Jupyter lab
 
+## 第三次作业：图像量化处理
+图像量化。
+
+![output_7_1](https://user-images.githubusercontent.com/106864918/197318826-a6605c69-6f23-4ca9-b6df-729ee3ec468f.png)
+
+
 ## 第四次作业：图像灰度转换
 多项式拟合。
 
